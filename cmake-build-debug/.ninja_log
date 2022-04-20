@@ -1,0 +1,7 @@
+# ninja log v5
+292	364	1649924537406750877	DockerTestProjects	63b43f481ea168e9
+1	292	1649924537333160011	CMakeFiles/DockerTestProjects.dir/main.c.o	c77192707b0076c2
+0	10	0	clean	3c8e6cc385ee00ba
+0	93	1649924981029855664	build.ninja	afb8c17fd43fd0d2
+2	210	1649925074097977669	CMakeFiles/DockerTestProjects.dir/main.c.o	c77192707b0076c2
+210	281	1649925074171366395	DockerTestProjects	63b43f481ea168e9

@@ -1,0 +1,3 @@
+/root/tmp/tmp.ybfuIyS78R/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/tmp/tmp.ybfuIyS78R/cmake-build-debug/CMakeFiles/DockerTestProjects.dir
+/root/tmp/tmp.ybfuIyS78R/cmake-build-debug/CMakeFiles/edit_cache.dir
